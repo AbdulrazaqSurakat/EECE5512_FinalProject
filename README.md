@@ -1,1 +1,2 @@
 # EECE5512_FinalProject
+This is a comprehensive Android sample application demonstrating real-time integration with AR/smart glasses hardware using Bluetooth Low Energy (BLE) communication. The project showcases AI object recognition capabilities. Built with Kotlin and modern Android frameworks, it leverages the proprietary LIB_GLASSES_SDK to provide developers with a production-ready reference for building glasses applications. Key features include AI object recognition, BLE device discovery and connection, permission management.
